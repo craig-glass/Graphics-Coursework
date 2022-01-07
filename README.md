@@ -18,4 +18,6 @@ Left Shift - speed up
 
 ## Acknowledgements
 
-I'd 
+I would like to thank the following for the use of their assets:
+
+- Ignite Coders for use of their water shader
